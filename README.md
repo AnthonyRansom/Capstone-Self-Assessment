@@ -23,7 +23,8 @@ machine learning model. Through my research I was able to extend my knowledge on
 ### Teamwork
 Most of the communication with my team was done through slack and class zoom calls.
 The team was able to communicate efficiently throughout the project with one of the main challenges with scheduling time outside of class time for everyone
-to review work and approve for submission. In future I would like to have worked with the team to commit to meeting times on submission days in order to
+to review work and approve for submission. This was overcome through tracking progress for delvirables and approvals and following up with team members at times best
+for them to review and approve work. In future I would like to have worked with the team to commit to meeting times on submission days in order to
 approve the work more collaboratively.
 
 ### Team Strengths
