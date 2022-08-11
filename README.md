@@ -23,7 +23,7 @@ machine learning model. Through my research I was able to extend my knowledge on
 ### Teamwork
 Most of the communication with my team was done through slack and class zoom calls.
 The team was able to communicate efficiently throughout the project with one of the main challenges with scheduling time outside of class time for everyone
-to review work and approve for submission. This was overcome through tracking progress for delvirables and approvals and following up with team members at times best
+to review work and approve for submission. This was overcome through tracking progress for deliverables and approvals and following up with team members at times best
 for them to review and approve work. In future I would like to have worked with the team to commit to meeting times on submission days in order to
 approve the work more collaboratively.
 
@@ -32,13 +32,13 @@ My counterparts on the team have a vast knowledge across different industries an
 I believe the team have good communication skills and were able to comfortably communicate and raise any issues they were having with the rest of the team and were able to comfortably
 communicate any challenges they were facing.
 
-For new comers starting projects team communication is very important throughout the project and ensuring the team members are comfortable enough to challenge
+For new comers starting projects, team communication is very important throughout the project and ensuring the team members are comfortable enough to challenge
 each others thoughts.
 
 ## Summary of Project
 ### Topic
 We set out to create a machine learning that could be implemented in job posting boards in order to predict if a job posting is fraudulent in order to reduce identity
-theft by fraudsters and scammers that are using fake job posting in phishing techniques to gain access to personal information.
+theft by fraudsters and scammers that are using fake job postings in phishing techniques to gain access to personal information.
 ### Machine learning model used
 LightGBM was used as the final machine learning model as we found it provided the best accuracy to performance for this project.
 ### Results
