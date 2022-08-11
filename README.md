@@ -17,7 +17,7 @@ solution.
 ## Personal Challenges
 My biggest personal challenge throughout the project was the natural language processing used in the feature engineering section, this took a lot of research and
 team/peer discussions and many code alterations to determine what functions within natural language processing library would best meet the needs of the
-machine learning model.
+machine learning model. Through my research I was able to extend my knowledge on how to work with different types of data allowing me to overcome this challenge.
 
 ## Team Assessment
 ### Teamwork
